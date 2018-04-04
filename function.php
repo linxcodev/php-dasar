@@ -36,7 +36,7 @@ function luas_kubus($sisi)
     $luas_kubus = 6 * $nilai_sisi;
     return $luas_kubus;
 }
-// V = sxsxs
+// V = s³
 function volume_kubus($sisi)
 {
     $volume_kubus = pow($sisi, 3);
