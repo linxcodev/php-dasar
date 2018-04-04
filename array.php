@@ -1,6 +1,6 @@
 <?php
 $nama = ['ojan','topan', 'sheena'];
 
-foreach ($nama as $key => $value) {
-    echo "no = $key nama = $value".'<br>';
+for ($i=0; $i <= 2; $i++) { 
+    echo 'no ='.$i.' nama = '.$nama[$i].'<br>';
 }
