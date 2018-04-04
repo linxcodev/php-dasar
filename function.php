@@ -1,4 +1,5 @@
 <?php
+
 function aritmatika($nilai_satu, $operator, $nilai_dua)
 {
     if ($operator == '+') {
@@ -20,6 +21,7 @@ function aritmatika($nilai_satu, $operator, $nilai_dua)
     }
     return $hasil;
 }
+
 echo aritmatika(1, '&', 2);
 
 echo '<br>' . '<br>';
@@ -29,6 +31,7 @@ foreach (range(1, 30) as $pembatas) {
 }
 
 echo '<br>' . '<br>';
+
 // L = 6 x s x s
 function luas_kubus($sisi)
 {
@@ -36,6 +39,7 @@ function luas_kubus($sisi)
     $luas_kubus = 6 * $nilai_sisi;
     return $luas_kubus;
 }
+
 // V = s³
 function volume_kubus($sisi)
 {
