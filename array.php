@@ -1,4 +1,6 @@
 <?php
 $nama = ['ojan','topan', 'sheena'];
 
-print_r($nama);
+foreach ($nama as $key => $value) {
+    echo "no = $key nama = $value".'<br>';
+}
