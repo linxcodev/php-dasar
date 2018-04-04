@@ -1,6 +1,6 @@
 <?php
 $nama = ['ojan','topan', 'sheena'];
 
-for ($i=0; $i <= 2; $i++) { 
-    echo 'no ='.$i.' nama = '.$nama[$i].'<br>';
+for ($nomor=0; $nomor <= 2; $nomor++) { 
+    echo 'no ='.$nomor.' nama = '.$nama[$i].'<br>';
 }
