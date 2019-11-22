@@ -1,5 +1,5 @@
 # php-dasar
-Belajar php dasar rubah saja
+Belajar php dasar
 
 ### dasar.php
 echo 'Belajar';     // untuk mengeluarkan kata belajar
