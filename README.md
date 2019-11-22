@@ -1,8 +1,8 @@
 # php-dasar
-Belajar php dasar 
+Belajar php dasar rubah saja
 
 ### dasar.php
-echo 'Belajar';     // untuk mengeluarkan kata belajar 
+echo 'Belajar';     // untuk mengeluarkan kata belajar
 
 // untuk membuat komentar menggunakan '//' tanpa tanda petik.
 
